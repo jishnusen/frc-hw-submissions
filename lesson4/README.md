@@ -7,7 +7,7 @@ Input the user’s age. Then, tell them what they can and cannot do using the fo
   4. 21+ is an adult
   5. 35+ can become President
 
-# Assignment 4.5
+# Assignment #4.5
 ## Lesson 4.5: The Software Engineering Process
 We have an array of patients with values of their weight and height. This program is supposed to return the BMI (Body Mass Index) for with patient in a loop. However, something is not quite right. Time to debug!!
 ```python
