@@ -1,7 +1,7 @@
 # Assignment #8
 ## Lesson 8: Classes
 
-![Robot Diagram](https://i.imgur.com/weUrXeL.pn://i.imgur.com/weUrXeL.png)
+![Robot Diagram](https://i.imgur.com/weUrXeL.png)
 Make a class for a robot! This robot can only drive in a straight line on a field 7 meters long. The robot has a drive base and an arm that can move up and down. Imagine that the arm can pick up and score cubes for 5 points each. Your robot should have these variables:
     * Position
     * Arm position
