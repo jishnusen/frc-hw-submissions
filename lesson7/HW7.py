@@ -102,3 +102,15 @@ HW2()
 HW4()
 HW5()
 HW6()
+
+
+ef isitdivis(firstnum, secnum):
+	if firstnum % secnum == 0:
+		print "It is divisible"
+	else:
+		print "it is not divisible :("
+
+a = int (raw_input("Number: "))
+b = int (raw_input ("Number: "))
+
+isitdivis(a,b)
