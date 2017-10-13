@@ -49,7 +49,7 @@ def HW4():
 		print "You can attend college! "
 		print "You are an adult! "
 		print "You can become president! "
-
+d
 	print ""
 	print ""
 
