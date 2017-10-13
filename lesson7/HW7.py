@@ -114,3 +114,4 @@ a = int (raw_input("Number: "))
 b = int (raw_input ("Number: "))
 
 isitdivis(a,b)
+
