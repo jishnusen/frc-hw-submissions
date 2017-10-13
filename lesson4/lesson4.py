@@ -1,4 +1,4 @@
-x = raw_input("How old are you?")
+x = int(raw_input("How old are you?"))
 if x > 14:
 	print "You can join the robotics team!"
 else:
