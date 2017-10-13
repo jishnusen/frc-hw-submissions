@@ -1,4 +1,5 @@
 
+
 age = int(raw_input("Your age? "))
 
 if age < 14:
@@ -23,3 +24,17 @@ else:
 	print "You can attend college! "
 	print "You are an adult! "
 	print "You can become president! "
+	
+	
+print ""
+print ""
+print ""
+
+patients = [[70, 1.8], [80, 1.9], [150, 1.7]]
+def calculate_bmi(weight, height):
+  return weight / (height ** 2)
+for patient in patients:
+  weight, height = patients[0]
+#they switched height and weight
+bmi = calculate_bmi(weight, height)
+print "Patient's BMI is:" + str(bmi)
