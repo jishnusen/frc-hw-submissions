@@ -1,0 +1,5 @@
+name = raw_input("By whose name is the pizza being ordered?")
+num_pizza = int(raw_input("How many pizzas do you want"))
+pepperoni = bool(raw_input("Do you want pepperoni?"))
+olives = bool(raw_input("Do you want olives?"))
+print ("Let me repeat your order, so I have " + num_pizza + "for " + name + "with" + pepperoni + "pepperoni" + "and " + olives + "olives")
