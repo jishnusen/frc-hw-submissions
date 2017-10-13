@@ -1,0 +1,5 @@
+print "If I try to convert 4.6 to a float, it always returns 4.6: ", float(4.6)
+print "If I try to convert a decimal to an int it always rounds down: ", int(4.6), int(3.7) 
+print "Converting a number to a string always works: ", str(4.6)
+print "But not the other way around if the string isn't a number!", float("three point six"), float("three"), int("4 and 5"), int("4.6")
+print "If the string is a number, then it works:", float(str(4.6)), int("3")
